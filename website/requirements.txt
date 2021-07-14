@@ -13,4 +13,4 @@ articleDateExtractor==0.20
 beautifulsoup4==4.9.3
 docx==0.2.4
 mailmerge==2.2.0
-newspaper=>0.1.0.7
+
